@@ -1,0 +1,40 @@
+.container-servicos {
+    margin: 7em 0 0 6em;
+}
+
+.container-servicos-side-active {
+    margin-left: 10em;
+    transition: 0.5s;
+}
+
+.card-servicos {
+    margin-bottom: 2em;
+    border: solid 1px #ccc;
+    padding: 0.7em;
+    border-radius: 5px;
+    width: 140vh;
+}
+
+
+.container-add-servico {
+    margin: 8em 0 0 10em;
+    border: solid 1px #ccc;
+    background-color: #f1f0f0;
+    padding: 0.7em;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #ccc;
+    width: 130vh;
+}
+
+.side-active-add-servico {
+    margin-left: 16em;
+    transition: 0.5s;
+}
+
+.custom-button {
+    padding: 10px 5px;
+    font-size: 0.9rem;
+    line-height: 1;
+    height: fit-content;
+    border-radius: 10px;
+  }
